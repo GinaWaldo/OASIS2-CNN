@@ -1,4 +1,4 @@
-Cite this article (available at https://rdcu.be/drNqB)
+If you find this code useful, please cite the related article available at https://rdcu.be/drNqB
 Waldo-Benítez, G., Padierna, L.C., Ceron, P. et al. Dementia classification from magnetic resonance images by machine learning. Neural Comput & Applic (2023). https://doi.org/10.1007/s00521-023-09163-y
 
 # OASIS2-ADNI
@@ -22,5 +22,5 @@ datasets. Thus, opening an interesting discussion about what MRI plane should be
 Alzheimer’s classification, and leaving a wide room for improvement on the performance of CNNs trained with sagittal
 MRI images. The resulting model implemented in software and experimental data are publicly available.
 
-Cite this article (available at https://rdcu.be/drNqB)
+If you find this code useful, please cite the related article available at https://rdcu.be/drNqB
 Waldo-Benítez, G., Padierna, L.C., Ceron, P. et al. Dementia classification from magnetic resonance images by machine learning. Neural Comput & Applic (2023). https://doi.org/10.1007/s00521-023-09163-y
